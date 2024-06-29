@@ -3,6 +3,12 @@
 
 ![Logo](https://raw.githubusercontent.com/saliiimm/Movies-App/master/app/src/main/res/mipmap-hdpi/ic_launcher.webp)
 
+## Demo
+
+
+https://github.com/saliiimm/Movies-App/assets/111188518/9f522581-bcf7-4289-83ed-51082ae21678
+
+
 ## Screenshots
 
 <img src="https://github.com/saliiimm/Movies-App/assets/111188518/d9380753-fa42-4d46-82fc-c874d2d491fe" width="248px">
